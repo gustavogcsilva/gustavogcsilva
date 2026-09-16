@@ -1,8 +1,8 @@
 # Olá, eu sou o Gustavo Geraldo 👋
 
-### Desenvolvedor Full Stack | Python | Node.js | React | Automação & Dados
+### Desenvolvedor Full Stack | Python | Node.js | React | Automação & Dados | TypeScript | JavaScript | HTML | CSS3
 
-Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com experiência no desenvolvimento de aplicações web completas, criação de bots, APIs e automação de processos. Trabalho integrando o ecossistema **Python** e **JavaScript/TypeScript**, utilizando **React** para interfaces modernas, bancos relacionais (**MySQL**, **PostgreSQL** e **SQLite**) e inteligência artificial para criar soluções eficientes e escaláveis.
+Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com experiência no desenvolvimento de aplicações web completas, criação de bots, APIs, automação de processos e análise de dados. Trabalho integrando o ecossistema **Python** e **JavaScript/TypeScript**, utilizando **React** para interfaces modernas, bancos relacionais (**MySQL**, **PostgreSQL** e **SQLite**), análise exploratória com **Pandas** e **Jupyter Notebook**, além de inteligência artificial para criar soluções eficientes e escaláveis.
 
 ---
 
@@ -16,26 +16,34 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com experiência
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend, Desktop & Visualização:**  
+**Frontend, Desktop & UI:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Bancos de Dados, Segurança & Automação:**  
+**Dados, Análise & Automação:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Bancos de Dados, Segurança & DevOps:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-4B5563?style=for-the-badge&logo=lock&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🚀 Projetos em Destaque
+
+* 📊 **[Levantamento e Análise Exploratória de Dados](https://github.com/gustavogcsilva):**  
+  Pipelines de extração, tratamento, limpeza e levantamento estatístico de dados a partir de bases heterogêneas (CSV, JSON e SQL). Utilização de Jupyter Notebooks para análise exploratória profunda e Pandas para manipulação estruturada, agregação de métricas e geração de insights analíticos.  
+  `Python` • `Pandas` • `Jupyter Notebook` • `Data Analysis`
 
 * ⚔️ **[RPG Character Creator & Database](https://github.com/gustavogcsilva):**  
   Aplicação desktop para criação, personalização e gerenciamento de fichas de personagens de RPG. Conta com interface gráfica construída em Tkinter, persistência de atributos e inventário em banco de dados relacional e hashing seguro com bcrypt para autenticação de contas de jogadores.  
@@ -67,6 +75,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com experiência
 
 Atuo ativamente no ecossistema open-source e em projetos colaborativos:
 * 🛠️ **Correções de bugs e refatoração** em bibliotecas e utilitários voltados a automação e Python.
+* 📈 **Tratamento de dados e notebooks compartilhados** focados em boas práticas de análise com Pandas e Jupyter.
 * 📖 **Melhoria de documentação técnica** e implementação de testes unitários para projetos comunitários.
 * 💡 **Code reviews e discussões de arquitetura** em repositórios abertos de bots e APIs RESTful.
 
