@@ -1,51 +1,75 @@
 # Olá, eu sou o Gustavo Geraldo 👋
 
-### Desenvolvedor Backend | Python | FastAPI | Automação com n8n
+### Desenvolvedor Full Stack Júnior | Python | Node.js | Automação & Dados
 
-Sou formado em Análise e Desenvolvimento de Sistemas (ADS) com foco na criação de soluções práticas que impactam o dia a dia. Atualmente, dedico meus estudos à stack Python, com foco em APIs de alta performance utilizando FastAPI e automações inteligentes para otimizar processos.
+Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com experiência no desenvolvimento de aplicações web completas, criação de bots, APIs e automação de fluxos. Trabalho no ecossistema **Python** e **JavaScript/TypeScript**, integrando inteligência artificial, interfaces dinâmicas e bancos de dados relacionais para criar soluções eficientes e escaláveis.
 
 ---
 
-### 🛠️ Minhas Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens e Frameworks:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+**Linguagens & Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Banco de Dados e Ferramentas:**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Frontend & Visualização:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Banco de Dados & Automação:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-* **[Reclame Bus](LINK_DO_REPOSITORIO):** Um Micro-SaaS focado em mobilidade urbana, permitindo que usuários registrem reclamações sobre o transporte público de forma eficiente. Desenvolvido com Python e Streamlit.
-* **[Catholic Micro-SaaS](LINK_DO_REPOSITORIO):** Plataforma para a comunidade católica com envio de mensagens diárias, informações sobre santos e horários de missas.
-* **[Finanças Pessoais](LINK_DO_REPOSITORIO):** Dashboard interativo para controle de gastos e planejamento financeiro utilizando Python.
+* 🤖 **[Gerenciador de WhatsApp - Bot de Leads](https://github.com/gustavogcsilva/Gerenciador-de-bot-para-o-whatsapp):**  
+  Bot com máquina de estados (FSM) e menus interativos para qualificação automatizada de leads sem misturar contextos simultâneos. Conta com simulação de digitação e servidor Express otimizado contra timeouts em deploy.  
+  `Node.js` • `Express` • `JavaScript` • `WhatsApp Web API`
+
+* 🧠 **[Mia - Diário Emocional & IA](https://github.com/gustavogesilva/mia-intelligence-system):**  
+  Plataforma web de suporte emocional com autenticação e anotações. Integração com a Gemini API para recomendações personalizadas e filtro de palavras-chave de risco com acionamento de apoio assistencial.  
+  `Python` • `Gemini API` • `Full Stack`
+
+* 🎬 **[Move Critic - Críticas de Filmes e Livros](https://github.com/gustavogcsilva/movecritic):**  
+  Aplicação web para catálogo, pesquisa e registro de resenhas de obras literárias e cinematográficas.  
+  `Python` • `Flask` • `HTML5` • `CSS3`
+
+* 💰 **[Gerencie DinDin - Gestão Financeira](https://github.com/gustavogcsilva/gerencie-dindin):**  
+  Painel de controle financeiro categorizado (Fixos, Lazer, Desejos) com visualização em tempo real e exportação de relatórios em PDF.  
+  `Python` • `Streamlit` • `Pandas`
+
+* 🚌 **[RouteDump - Extração de Rotas](https://github.com/gustavogesilva/RouteDump):**  
+  Ferramenta de automação que processa relatórios de rotas em PDF do Moovit e estrutura os dados em TXT para integração em outros softwares.  
+  `Python` • `Automação de Dados`
 
 ---
 
-### 📈 Minhas Estatísticas
+### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogcsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogcsilva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogcsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogcsilva&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
 
-### 📫 Vamos conversar?
+### 📫 Conecte-se comigo
 
-Estou sempre aberto a novos desafios e parcerias em projetos de software, especialmente focados em Python e automação.
+Estou sempre aberto a novas oportunidades profissionais, projetos freelance e colaborações técnicas.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-geraldo-b12b05359)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581984630516)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavogeraldo14@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavogeraldo14@gmail.com)
 
 ---
 *"Buscando transformar problemas em linhas de código eficientes."*
