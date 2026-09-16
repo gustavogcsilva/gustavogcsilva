@@ -1,14 +1,14 @@
 # Olá, eu sou o Gustavo Geraldo 👋
 
-### Desenvolvedor Full Stack Júnior | Python | Node.js | Automação & Dados
+### Desenvolvedor Full Stack | Python | Node.js | React | Automação & Dados
 
-Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com experiência no desenvolvimento de aplicações web completas, criação de bots, APIs e automação de fluxos. Trabalho no ecossistema **Python** e **JavaScript/TypeScript**, integrando inteligência artificial, interfaces dinâmicas e bancos de dados relacionais para criar soluções eficientes e escaláveis.
+Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com experiência no desenvolvimento de aplicações web completas, criação de bots, APIs e automação de processos. Trabalho integrando o ecossistema **Python** e **JavaScript/TypeScript**, utilizando **React** para interfaces modernas, bancos relacionais (**MySQL** e **PostgreSQL**) e inteligência artificial para criar soluções eficientes e escaláveis.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens & Backend:**  
+**Backend & APIs:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -17,12 +17,14 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com experiência
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frontend & Visualização:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Banco de Dados & Automação:**  
+**Bancos de Dados & Automação:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,7 +67,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com experiência
 
 ### 📫 Conecte-se comigo
 
-Estou sempre aberto a novas oportunidades profissionais, projetos freelance e colaborações técnicas.
+Estou sempre aberto a novas oportunidades profissionais, projetos freelance e parcerias técnicas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-geraldo-b12b05359)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581984630516)
